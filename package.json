@@ -1,0 +1,22 @@
+{
+  "name": "css3clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clock.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkoppaka/css3clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkoppaka/css3clock/issues"
+  },
+  "homepage": "https://github.com/vkoppaka/css3clock#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
